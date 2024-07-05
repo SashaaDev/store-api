@@ -7,7 +7,7 @@
 
 1. Клонируйте репозиторий:
    ```bash
-   git clone https://github.com/yourusername/store-api.git
+   git clone https://github.com/SashaaDev/store-api.git
    cd store-api
    ```
 
